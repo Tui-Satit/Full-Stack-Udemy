@@ -1,0 +1,59 @@
+h1 {
+  background-color: aquamarine;
+  color: black;
+}
+.img-header {
+  display: block;
+  margin: auto;
+  width: 80%;
+  margin-top: 20px;
+}
+header {
+  color: aliceblue;
+}
+img.logo {
+  border-radius: 50%;
+  width: 180px;
+   display: block;
+  margin: auto;
+  
+}
+
+.intro {
+    width: 50%;
+    margin: auto;
+    margin-top: 20px;
+}
+
+.intro h1 {
+  text-align:center;
+  
+}
+
+.list-group {
+  margin-top: 40px;
+}
+
+.list-group img {
+  background-color: 20%;
+  border-radius: 30px;
+}
+
+.contact-me {
+    width: 50%;
+    margin: auto;
+    margin-top: 40px;
+    text-align: center;
+}
+
+.contact-me h2{
+  color: black;
+  background-color: antiquewhite;
+  padding: 5px;
+  border-radius: 10px;
+}
+
+footer {
+  background-color: aquamarine;
+}
+  
